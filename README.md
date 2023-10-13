@@ -29,7 +29,7 @@ ___
 <p> Um guia rápido de como instalar e utilizar o belchior </p>
 
 ```
-1. Clone o repositório com: git clone github.com/hackforyourentertainment/belchior.git
+1. Clone o repositório com git clone github.com/hackforyourentertainment/belchior.git
 2. Execute go run main.go ou go build
 3. Pronto!
 ```
